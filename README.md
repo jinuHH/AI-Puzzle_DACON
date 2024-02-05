@@ -10,7 +10,7 @@ Jigsaw-ViT 모델 사용
 데이콘
 
 ## :sparkles: 개발 환경
-python : 3.10.12
+Python : 3.10.12
 
 GPU : Colab / NVIDIA Tesla T4
 
