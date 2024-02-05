@@ -6,6 +6,8 @@ Jigsaw-ViT 모델 사용
 
 구체적으로는 4x4의 격자 형태의 16개의 조각으로 구성된 순서가 뒤바뀐 퍼즐 이미지를 대상으로 원래 순서를 맞추는 것
 
+링크 : <https://dacon.io/competitions/official/236207/overview/description>
+
 ## :sparkles: 주최 / 주관
 데이콘
 
